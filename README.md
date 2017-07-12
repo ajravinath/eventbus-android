@@ -6,13 +6,14 @@ sample use of event bus/ boilerplate code
   
  **Via Maven**
   ```<dependency>
-    <groupId>org.greenrobot</groupId>
-    <artifactId>eventbus</artifactId>
-    <version>3.0.0</version>
-</dependency>
+        <groupId>org.greenrobot</groupId>
+        <artifactId>eventbus</artifactId>
+        <version>3.0.0</version>
+    </dependency>
 ```
       
 **EventBus : EventBus is a publish/subscribe event bus optimized for Android **
+     
       1.simplifies the communication between components
       2.decouples event senders and receivers
       3.performs well with Activities, Fragments, and background threads
