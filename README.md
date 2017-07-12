@@ -5,12 +5,10 @@ sample use of event bus/ boilerplate code
   `compile 'org.greenrobot:eventbus:3.0.0'`
   
  **Via Maven**
-   ```<dependency>
-        <groupId>org.greenrobot</groupId>
-        <artifactId>eventbus</artifactId>
-        <version>3.0.0</version>
-      </dependency>
-    ```
+  ```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
       
 **EventBus : EventBus is a publish/subscribe event bus optimized for Android **
       1.simplifies the communication between components
