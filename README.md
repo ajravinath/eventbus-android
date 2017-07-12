@@ -12,7 +12,7 @@ sample use of event bus/ boilerplate code
     </dependency>
 ```
       
-**EventBus : EventBus is a publish/subscribe event bus optimized for Android **
+**EventBus : EventBus is a publish/subscribe event bus optimized for Android**
      
       1.simplifies the communication between components
       2.decouples event senders and receivers
