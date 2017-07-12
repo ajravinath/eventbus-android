@@ -5,7 +5,8 @@ sample use of event bus/ boilerplate code
   `compile 'org.greenrobot:eventbus:3.0.0'`
   
  **Via Maven**
-  ```<dependency>
+  ```
+    <dependency>
         <groupId>org.greenrobot</groupId>
         <artifactId>eventbus</artifactId>
         <version>3.0.0</version>
